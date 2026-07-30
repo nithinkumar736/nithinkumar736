@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
 <!--
 **nithinkumar736/nithinkumar736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
