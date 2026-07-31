@@ -38,16 +38,12 @@
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-url">
+<a href="www.linkedin.com/in/nithin-kumar-a6403428b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="nithinkumar0306@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://twitter.com/your-twitter">
-<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 <a href="https://your-portfolio-url">
@@ -112,27 +108,6 @@
 
 [![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkumar736&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-# ⚡ Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
 
 # 🎯 Current Goals
 
